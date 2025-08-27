@@ -18,7 +18,7 @@ Calculate Profitability for each region:
 Select the top 200 wells with the highest predicted reserves.
 Estimate total profit considering the budget and oil price.
 
-Apply Boots trapping Technique to:
+Apply Boots strapping Technique to:
 Simulate profitability over multiple random samples.
 Calculate average profit, 95% confidence interval, and risk of loss for each region.
 
