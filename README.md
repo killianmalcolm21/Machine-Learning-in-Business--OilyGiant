@@ -9,9 +9,11 @@ Evaluate Model Accuracy using RMSE (Root Mean Squared Error) and average predict
 Calculate Profitability for each region:
 Select the top 200 wells with the highest predicted reserves.
 Estimate total profit considering the budget and oil price.
+
 Apply Bootstrapping Technique to:
 Simulate profitability over multiple random samples.
 Calculate average profit, 95% confidence interval, and risk of loss for each region.
+
 Select the Best Region that meets the risk requirement:
 Risk of loss must be below 2.5%.
 The region should have the highest expected profit.
